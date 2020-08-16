@@ -1,0 +1,24 @@
+# CashApp Coding Challenge
+
+Application will deposit amount to two accounts and withdraw the amounts  for a given customer.
+It will check if the amount is greater than the users current balance, it will throw an user friendly message.
+
+Technologies Used:
+
+Java
+
+#Steps to run the code:
+Extract the zip in a folder
+Run the command: java -jar cashapp-1.0.0.jar
+
+# Intentionally missing
+Following the requirement to keep things simple, this application produces an working application:
+
+Authentication
+Real storage of user information
+Transaction management
+Model input validation (name, negative balances or amounts, etc.)
+A deeper NPE safety
+Better separation between models,DTO and services
+Error documentation
+
